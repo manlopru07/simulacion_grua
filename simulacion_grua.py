@@ -24,12 +24,12 @@ yC_0 = H
 vyC_0 = 0.0
 
 # Gancho (péndulo)
-theta_0 = np.radians(0.00)  # Ángulo inicial de desviación del gancho (alpha)
-omega_0 = 0.0            # Velocidad angular inicial del gancho
+theta_0 = np.radians(3.0)  # Ángulo inicial de desviación del gancho (alpha)
+omega_0 = 1.0            # Velocidad angular inicial del gancho
 
 # Pluma (rotación)
-phi_0 = np.radians(00.0)    # Inclinación inicial de la pluma respecto a la horizontal
-omega_phi_0 = 0.00          # Velocidad angular inicial de rotación de la pluma (rad/s)
+phi_0 = np.radians(-3.0)    # Inclinación inicial de la pluma respecto a la horizontal
+omega_phi_0 = 0.5        # Velocidad angular inicial de rotación de la pluma (rad/s)
 
 #----------------------------------------------------------------------------------------------------------------------------------
 
